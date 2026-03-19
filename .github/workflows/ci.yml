@@ -41,5 +41,5 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/malakEL87/task-manager-api:latest
-            ghcr.io/malakEL87/task-manager-api:prod
+            ghcr.io/malakel87/task-manager-api:latest
+            ghcr.io/malakel87/task-manager-api:prod
