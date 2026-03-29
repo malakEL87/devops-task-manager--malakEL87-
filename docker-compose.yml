@@ -16,5 +16,4 @@ services:
 volumes:
   mongo_data:
 
-  # Lab 5 final
   
